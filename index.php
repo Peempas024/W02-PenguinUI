@@ -13,6 +13,7 @@ require_once __DIR__ . '/includes/navbar.php';
                 <span class="mb-6 inline-flex items-center gap-2 rounded-full border border-cyan-400/20 bg-cyan-400/10 px-4 py-2 text-xs font-semibold uppercase tracking-widest text-cyan-300">
                     <span class="h-2 w-2 animate-pulse rounded-full bg-cyan-300"></span>Hello!
                 </span>
+                <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHFocHUxMWZ4dnJ0cnI3M2NraGd2YmVheWo2YWExcmI4NGdpYW5tayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/source.gif" alt="Peemapas Satranon" class="mx-auto h-32 w-32 rounded-full object-cover">
                 <h1 class="text-4xl font-extrabold tracking-tight text-white sm:text-6xl">My name is<br><span class="text-cyan-300">Peemapas Satranon</span></h1>
                 <p class="mx-auto mt-6 max-w-xl text-base leading-8 text-slate-300 sm:text-lg">This is my personal website. You can find my assignments and personal biography here. Feel free to explore and check out my work!</p>
                 <div class="mt-9 flex flex-wrap justify-center gap-3">
