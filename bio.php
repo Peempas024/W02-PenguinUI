@@ -7,9 +7,8 @@ require_once __DIR__ . '/includes/navbar.php';
 <main class="mx-auto w-full max-w-4xl flex-1 space-y-6 px-5 py-12 sm:px-6 sm:py-16">
     <section class="rounded-3xl border border-cyan-400/20 bg-slate-900/80 p-8 shadow-2xl shadow-cyan-950/10 sm:p-10">
         <div class="flex flex-col items-center gap-7 sm:flex-row">
-            <div class="relative shrink-0">
-                <div class="flex h-32 w-32 items-center justify-center rounded-full border-2 border-cyan-400/40 bg-slate-950 text-3xl font-extrabold text-cyan-300 shadow-xl">PS</div>
-                <span class="absolute bottom-1 right-1 h-5 w-5 rounded-full border-2 border-slate-900 bg-emerald-400" aria-label="Available"></span>
+             <div class="relative shrink-0">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYivORdcbWpWFHC9Lutw6y0FwI6xV2W4ZPGr7PII4g0tvUQIJZrVcYVSY&s=10" alt="Peemapas Satranon" class="h-32 w-32 rounded-full object-cover">
             </div>
             <div class="text-center sm:text-left">
                 <span class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-semibold tracking-wide text-slate-300"><span class="h-2 w-2 rounded-full bg-cyan-300"></span>Personal Biography</span>
